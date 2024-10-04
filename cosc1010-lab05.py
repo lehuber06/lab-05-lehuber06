@@ -1,8 +1,8 @@
-# Your Name Here
+# Lee Huber
 # UWYO COSC 1010
-# Submission Date
+# 10/4/24
 # Lab 03 
-# Lab Section: 
+# Lab Section: 15
 # Sources, people worked with, help given to: 
 # your
 # comments

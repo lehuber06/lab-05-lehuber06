@@ -142,3 +142,5 @@ for number in numbers:
 
 print(f"Sum of positive numbers {pos_sum}")
 print(f"Sum of negative numbers {neg_sum}")
+
+print("VS Code")

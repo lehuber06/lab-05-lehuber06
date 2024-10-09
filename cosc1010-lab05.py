@@ -120,10 +120,13 @@ zero_count = 0
 for number in numbers:
     if "-" in str(number):
         neg_count += 1
+        print(f"{number} is a negative number")
     elif number == 0:
         zero_count += 1
+        print(f"{number} is a zero")
     else:
         pos_count += 1
+        print(f"{number} is a positive number")
 
 print(f'There are {pos_count} positive numbers')
 print(f'There are {neg_count} negative numbers')
